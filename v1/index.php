@@ -51,6 +51,9 @@ function authenticate(\Slim\Route $route) {
     }
 }
 
+
+
+
 /**
  * ----------- METHODS WITHOUT AUTHENTICATION ---------------------------------
  */
